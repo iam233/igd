@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://iguangdie-me.ml</id>
     <title>iGuangDie</title>
-    <updated>2021-02-27T00:23:56.084Z</updated>
+    <updated>2021-02-27T00:36:36.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://iguangdie-me.ml"/>
     <link rel="self" href="http://iguangdie-me.ml/atom.xml"/>
@@ -39,7 +39,28 @@
 <h3>6，获取密钥</h3>
 <font color="red" size="+2">请务必保管好你的密钥，他不会再出现第二次！！！</font>
 ![](http://iguangdie-me.ml/post-images/1614385384141.png)
-]]></content>
+<h2>设置仓库</h2>
+<h3>1，创建一个新的仓库</h3>
+![](http://iguangdie-me.ml/post-images/1614385512450.png)
+<h3>2，如图设置</h3>
+**注意：如果你有自己的域名可以不使用你的用户名.github.io，随便乱来也行，但是如果你要白嫖github的github.io域名请务必这么干，虽然说速度不会很快就是了，而且移动网也无法连接，所以说请务必整个freenom或者是买个域名，对接cloudflare，虽然说cloudflare是超级减速云，但是他都比github还要快*
+![](http://iguangdie-me.ml/post-images/1614385598399.png)
+<h3>4，进入设置</h3>
+![](http://iguangdie-me.ml/post-images/1614385782874.png)
+<h3>5，配置Github Pages服务</h3>
+![](http://iguangdie-me.ml/post-images/1614385825258.png)
+![](http://iguangdie-me.ml/post-images/1614385841383.png)
+![](http://iguangdie-me.ml/post-images/1614385893412.png)
+<h2>配置你自己的域名</h2>
+![](http://iguangdie-me.ml/post-images/1614385934945.png)
+在这里输入你的域名，然后你就跑去Cloudflare的DNS解析
+![](http://iguangdie-me.ml/post-images/1614386023262.png)
+<h2>配置Gridea</h2>
+![](http://iguangdie-me.ml/post-images/1614386127162.png)
+![](http://iguangdie-me.ml/post-images/1614386133421.png)
+<br>
+恭喜你！你已经可以开始创作了，写完文章之后点击**同步**按钮就可以同步到你的github上啦！
+**主题、Valine评论那些的不在本教程范畴*]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[欢迎来到光碟君的博客！]]></title>
